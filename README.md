@@ -14,6 +14,7 @@
 - how to use pacakges
 - importing functions to different files
 - a way to save all packages from venv into `requirement.txt`
+`pip freeze > requirements.txt`
 
 ===============||||||||=============
 Redo challenge using TDDs
